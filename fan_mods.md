@@ -27,6 +27,8 @@ later storage or mounting of the device.
 each of the four sides of the fan. The arrow should point from the open side of
 the fan to the side with the motor mount supports.
 
+<img src="/assets/img/mark_flow_directions.JPG" alt="drawing" width="200"/>
+
 3. Lay the fan with the open side facing down on the bench. Using a knife remove
 the sticker from the back of the fan. There is a small black magnet in the
 center of the fan which can be left or removed as it is not essential to the
