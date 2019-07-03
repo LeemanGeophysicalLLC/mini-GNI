@@ -31,4 +31,5 @@ flown multiple times and the samples will be collected and analyzed.
 
 ## Resources
 * [Modifying fans for wind speed measurement](fan_mods.html)
+* [Adafruit Feather Hookup](hookup.html)
 * [Calibrating fans as anemometers](anemometer_calibration.html)
