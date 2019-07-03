@@ -45,11 +45,11 @@ heat gun. Be careful not to burn yourself. A hot air station set at 125C works
 well also.
 
 <center>
-  <img src="assets/img/hookup_close.JPG" alt="hookup close up" width="300"/>
+  <img src="assets/img/hookup_close_up.JPG" alt="hookup close up" width="300"/>
 </center>
 
 10\. Plug the fan into the cable - hookup is complete!
 
 <center>
-  <img src="assets/img/hookup_complete.JPG" alt="hookup complete" width="300"/>
+  <img src="assets/img/hookup_completed.JPG" alt="hookup complete" width="300"/>
 </center>
